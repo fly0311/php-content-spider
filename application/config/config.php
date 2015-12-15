@@ -1,6 +1,6 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
-
+date_default_timezone_set('Asia/Shanghai');
 /*
 |--------------------------------------------------------------------------
 | Base Site URL
@@ -17,7 +17,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | environments.
 |
 */
-$config['base_url'] = 'http://localhost/';#初始安装，请在这里修改
+$config['base_url'] = 'http://www.spider.com/';#初始安装，请在这里修改
 
 /*
 |--------------------------------------------------------------------------

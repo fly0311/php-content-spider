@@ -8,18 +8,17 @@
 
           <div class="masthead clearfix">
             <div class="inner">
-              <h3 class="masthead-brand">ACI(AutoCodeigniter.com)</h3>
+              <h3 class="masthead-brand">PHP Content Spider</h3>
               <nav>
                 <ul class="nav masthead-nav">
                   <li class="active"><a href="<?php echo site_url()?>">首页</a></li>
-                  <li><a href="http://www.autoCodeigniter.com">联系</a></li>
                 </ul>
               </nav>
             </div>
           </div>
 
           <div class="inner cover">
-            <h1 class="cover-heading">欢迎使用ACI.</h1>
+            <h1 class="cover-heading">欢迎使用PHP Content Spider.</h1>
             <p class="lead">恭喜您安装成功，默认管理帐号 test/test</p>
             <p class="lead">
               <p>{title}</p>

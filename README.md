@@ -1,7 +1,8 @@
 # PHP-content-spider
 这是一套基于PHP端网站内容抓取后台管理程序，兼容BOOSTRAP<br/> 
 <br/>
-后台是使用ACI(autocodeigniter,基于Codeigniter和bootstrap的后台管理程序)
+后台是使用ACI(autocodeigniter,基于Codeigniter和bootstrap的后台管理程序)<br/>
+https://github.com/hubinjie/ACI<br/>
 
 <hr/>
 # 安装步骤
